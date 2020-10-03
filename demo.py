@@ -10,3 +10,6 @@ url = "https://namedmaster.com/"
 #     print(res, "error connect")
 
 # 如何確定有沒有爬蟲成功? 終端機直接進行 py mymodule.py
+
+import os 
+print(os.path)
